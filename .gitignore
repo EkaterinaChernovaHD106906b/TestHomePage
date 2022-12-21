@@ -45,3 +45,7 @@ out/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+gradle/wrapper
+gradlew
+gradlew.bat
+settings.gradle
